@@ -12,7 +12,7 @@ To be completed:
 - Make sure the clock runs normally after moving the pointer by hand.
 
 A screenshot of my app is like:
-![avatar](/HW3_Clock/ScreenShot.jpg)
+![avatar](https://github.com/Zerolc01/HW3_Clock/blob/master/ScreenShot.jpg)
 
 *LinChong, Autumn 2021.*
 
